@@ -7,7 +7,7 @@ try
     bdclose all
     
     
-    model_file = ModelName;		% Error code generation
+    model_file = Model_Name;		% Error code generation
     new_config_file = config_filename;%'New_config_setting.m';
 %     old_config_file = 'Old_config_setting.m';
     
